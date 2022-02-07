@@ -68,3 +68,4 @@ function addAnimation(events){
     document.querySelector('.'+events).classList.remove('pressed')
   },200)
 }
+
